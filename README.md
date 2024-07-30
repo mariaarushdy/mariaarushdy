@@ -5,7 +5,7 @@ I'm a senior undergraduate student majoring in Artificial Intelligence and Intel
 ## 🎓 Education
 
 - Bachelor's in Artificial Intelligence, Intelligent Systems (Expected 2024)
-- GPA: 3.83
+- GPA: 3.84
 
 ## 🛠 Skills
 
@@ -18,7 +18,7 @@ I'm a senior undergraduate student majoring in Artificial Intelligence and Intel
 ## 🏆 Competitions
 
 - RoboCup@Home Education: Coached teams to 1st, 3rd, and 4th places
-- ACPC (Arab Collegiate Programming Contest): Qualified for ECPC
+- ACPC (Arab Collegiate Programming Contest): ECPC finalist 
 - DEBI Robotics Challenge
 - Formula 1 Students' Competition: Control team member
 - Head of Software Team at SkyXpert for ICMTC competition
