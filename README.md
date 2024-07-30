@@ -1,8 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/mariaarushdy/mariaarushdy/blob/main/photo/dean.gif" width="50%">
   <br>
-  # Hello, I'm Maria Roshdy 👋
-  <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 </h1>
 <p align="center">
