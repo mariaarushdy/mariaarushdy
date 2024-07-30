@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://github.com/mariaarushdy/mariaarushdy/blob/main/photo/dean.gif" width="50%">
+  <img src="https://github.com/mariaarushdy/mariaarushdy/blob/main/photo/dean-winchester-wink.gif" width="50%">
   <br>
 </h1>
 <p align="center">
  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%236FDA44&center=true&vCenter=true&width=600&lines=AI+Student+at+AAST;ECPC+Finalist;I+am+majoring+in+Robotics+and+Machine+Learning;Always+learning+new+things;Using+Competitive+Programming+in+all+projects" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%236FDA44&center=true&vCenter=true&width=600&lines=Hello+I'm+Maria+Roshdy+ 👋;AI+Student+at+AAST;ECPC+Finalist;I+am+majoring+in+Robotics+and+Machine+Learning;Always+learning+new+things;Using+Competitive+Programming+in+all+projects" alt="Typing SVG" />
   </a>
 </p>
 
