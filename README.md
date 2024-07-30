@@ -9,11 +9,11 @@
 </p>
 
 
-
-## 🎓 Education
-
-- Bachelor's in Artificial Intelligence, Intelligent Systems (Expected 2024)
-- GPA: 3.84
+## About me
+- gataduated from college of Artificial Intelligence at AAST with GPA: 3.84
+- majoring in Robotics, Computer vision, ML, DL.
+- got third place in Robocup@home Education world finals 2024
+- 🤔 I’m currently open for a new job opportunity, Here is [MY RESUME](https://github.com/mariaarushdy/mariaarushdy/blob/main/maria_v6.pdf).
 
 ## 🛠 Skills
 
@@ -22,7 +22,7 @@
 - **Tools**: Rviz, Gazebo, GMapping, SLAM, TurtleBot2/3, Firebase, Mission Planner, MAVProxy
 - **Platforms**: Linux, Web, Windows, Arduino, ARM, AWS, FortiGate
 - **Methodologies**: Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision, Image Processing, Data Structures, OOP
-
+1
 ## 🏆 Competitions
 
 - RoboCup@Home Education: Coached teams to 1st, 3rd, and 4th places
