@@ -9,7 +9,6 @@
 </p>
 
 
-I'm a senior undergraduate student majoring in Artificial Intelligence and Intelligent Systems at the Arab Academy for Science and Technology in El-Alamein, Egypt. I'm passionate about robotics, machine learning, and software development.
 
 ## 🎓 Education
 
