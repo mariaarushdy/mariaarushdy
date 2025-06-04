@@ -1,53 +1,71 @@
-<h1 align="center">
-  <img src="https://github.com/mariaarushdy/mariaarushdy/blob/main/photo/dean-winchester-wink.gif" width="50%">
-  <br>
-</h1>
-<p align="center">
- <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color%8ACEFE&center=true&vCenter=true&width=600&lines=Hello+I'm+Maria+Roshdy+ 👋;AI+Student+at+AAST;ECPC+Finalist;I+am+majoring+in+Robotics+and+Machine+Learning;Always+learning+new+things;Using+Competitive+Programming+in+all+projects" alt="Typing SVG" />
-  </a>
-</p>
+# 👩‍💻 Maria Roshdy
 
+**AI & Robotics Engineer**
+📍 Egypt | 🌐 [LinkedIn](https://www.linkedin.com/in/maria-roshdy-3b3000234/) | 📩 [mariaroshdy17@gmail.com](mailto:mariaroshdy17@gmail.com)
 
-## About me
-- gataduated from college of Artificial Intelligence at AAST with GPA: 3.84
-- majoring in Robotics, Computer vision, ML, DL.
-- got third place in Robocup@home Education world finals 2024
-- 🤔 I’m currently open for a new job opportunity, Here is [MY RESUME](https://github.com/mariaarushdy/mariaarushdy/blob/main/maria_v6.pdf).
+Hi! I'm Maria Roshdy — an AI and Robotics Engineer with a passion for building intelligent systems that interact with the real world. I love combining artificial intelligence, embedded systems, and autonomous robotics to create innovative solutions.
 
-## 🛠 Skills
+---
 
-- **Languages**: C, C++, Python, SQL, JavaScript
-- **Frameworks**: PyTorch, TensorFlow, ROS, MAVROS, MoveIt, OpenCV, Node.js, Express.js, Unity, Flutter, Ardupilot, PX4
-- **Tools**: Rviz, Gazebo, GMapping, SLAM, TurtleBot2/3, Firebase, Mission Planner, MAVProxy
-- **Platforms**: Linux, Web, Windows, Arduino, ARM, AWS, FortiGate
-- **Methodologies**: Machine Learning, Deep Learning, Reinforcement Learning, Computer Vision, Image Processing, Data Structures, OOP
-1
-## 🏆 Competitions
+## 🚀 About Me
 
-- RoboCup@Home Education: Coached teams to 1st, 3rd, and 4th places
-- ACPC (Arab Collegiate Programming Contest): ECPC finalist 
-- DEBI Robotics Challenge
-- Formula 1 Students' Competition: Control team member
-- Head of Software Team at SkyXpert for ICMTC competition
+* 🎓 **B.Sc. in Artificial Intelligence** – Arab Academy for Science, Technology, and Maritime Transport (2024)
+  Major: Intelligent Systems & Robotics | GPA: 3.84 (Excellent with Honors)
+* 👩‍🏫 **Teaching Assistant** – Alamein International University
+  Supporting courses and labs in Robotics, Embedded Systems, IoT, AI, and Image Processing.
+* 🧠 **AI & Data Testing Engineer** at **Corporatica**
+  Working on model validation, data QA, and adversarial testing for AI systems.
+* 🏎️ **Driverless Formula Student Team Member**
+  Integrated Stanley control and vision-based perception for autonomous vehicle navigation.
 
-## 🚀 Projects
+---
 
-- Stop Face Touching Device
-- Face Recognition using Transfer Learning
-- Car Lane Detection System
-- Autonomous SLAM Navigation with Reinforcement Learning
-- Deepfake Enhancement
-- Dilly-Dallier Gaming Website
-- Joke Generator using NLP
-- Nao Robot Soccer Player
-- Image Search Engine
-- NaoAI-Assistant
+## 💡 Highlight Projects
 
-## 🔗 Connect with me
+### 🌱 [AI-Powered Plant Disease Detector + Drone Field Scanner](https://github.com/mariaarushdy)
 
-- [LinkedIn](https://www.linkedin.com/in/maria-roshdy-3b3000234)
-- [GitHub](https://github.com/mariaarushdyGithub)
-- Email: mariaroshdy17@gmail.com
+* A Flutter-based app for real-time plant disease detection using a ResNet50 model (accuracy: 99.4%).
+* Autonomous drone navigation with ROS, MAVROS, and ArduPilot for smart field scanning.
+* Integrated live video streaming, area selection via Google Maps API, and Gemini API info retrieval.
 
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or questions!
+### 🤖 NaoAI-Assistant
+
+* Developed a personalized NAO robot assistant using speech recognition, GPT-3.5 API, facial emotion detection, and OpenCV for rich human-robot interaction.
+
+### 🧠 Joke Generator
+
+* An NLP project using the T5 transformer to generate coherent and humorous jokes.
+
+### 📷 AWS Facial Detection Automation
+
+* Built a secure AWS-based system with Lambda for automated face detection and image storage.
+
+---
+
+## 🛠️ Skills & Tools
+
+**Languages**: Python, C/C++, SQL, JavaScript, Dart, R, Java
+**Frameworks & Tools**: TensorFlow, PyTorch, ROS, OpenCV, Flutter, AWS, Node.js, FastAPI, MAVROS, ArduPilot
+**Robotics**: Gazebo, Rviz, SLAM, MoveIt, TurtleBot2/3, mission planner, mavProxy
+**DevOps & Platforms**: Linux, Git, GitHub, Firebase, EC2, S3, Lambda, VPC
+
+---
+
+## 🏆 Achievements
+
+* 🥉 3rd Place Worldwide – **RoboCup\@Home World Finals**, Eindhoven 2024
+* 🥇 National Wins – Coached and supported winning teams at RoboCup Egypt
+* 🚁 DEBI Robotics Challenge – Developed ball-pushing robot strategies using TurtleBot3
+* 🤖 AI Robotics Workshop – Hands-on robotics control & vision systems experience
+
+---
+
+## 🤝 Let's Connect
+
+* GitHub: [mariaarushdy](https://github.com/mariaarushdy)
+* LinkedIn: [maria-roshdy-3b3000234](https://www.linkedin.com/in/maria-roshdy-3b3000234/)
+* Email: [mariaroshdy17@gmail.com](mailto:mariaroshdy17@gmail.com)
+
+---
+
+Feel free to explore my repositories to see how I combine AI, robotics, and real-world systems to build the future!
