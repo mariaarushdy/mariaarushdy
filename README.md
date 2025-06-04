@@ -35,11 +35,6 @@ Hi! I'm Maria Roshdy — an AI and Robotics Engineer with a passion for building
 ### 🧠 Joke Generator
 
 * An NLP project using the T5 transformer to generate coherent and humorous jokes.
-
-### 📷 AWS Facial Detection Automation
-
-* Built a secure AWS-based system with Lambda for automated face detection and image storage.
-
 ---
 
 ## 🛠️ Skills & Tools
